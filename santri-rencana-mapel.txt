@@ -4,7 +4,10 @@ RENCANA MAPEL SANTRI
   => Membaca Hiwar
   => Menghafal Hiwar
   => Membaca Nash
-  => Mengartikan Mufrodat
+- Siroh Nabi
+  => Biografi Nabi
+  => Perjalanan Nabi
+- Ulumul Qur'an
 - Tajwid
 - Siroh Nabawiyyah
   => Biografi Nabi
